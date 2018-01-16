@@ -1,0 +1,11 @@
+command+Z(+shift)：撤销（重做）／Undo（Redo）
+control+command+↑/↓：切换头文件/实现文件（switch between a source file (.m,*.mm,*.cc) and the associated 
+shift+command+J：在项目导航中定位当前编辑其中打开的文件（Reveal in Project Navigator）。
+
+option-command-left/right: 前一个/后一个编辑位置, 相当于 Eclipse 的 Alt+方向键
+
+command + b　　 编译程序，不运行 
+5. command + return　　 编译并运行程序 
+6. command + shift + b　　 打开编译结果窗口，显示编译详细信息
+
+by  http://blog.csdn.net/luobo140716/article/details/49300633
